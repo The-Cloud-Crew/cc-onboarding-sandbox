@@ -10,7 +10,7 @@ automation, and how to use GitHub Actions
 with AWS to build and deploy applications.
 
 ## Favourite tool
-y favourite tools are GitHub and AWS.
+my favourite tools are GitHub and AWS.
 I enjoy using GitHub because it helps me
 manage code and collaborate with others.
 I also enjoy AWS because it allows me to
