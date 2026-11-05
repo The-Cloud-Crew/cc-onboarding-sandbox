@@ -1,4 +1,4 @@
-# Nsme
+# Name
 Michael
 Write the name you would like your teammates to use.
 
